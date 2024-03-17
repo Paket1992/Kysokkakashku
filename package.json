@@ -1,0 +1,23 @@
+{
+  "name": "kysokkakashku",
+  "version": "1.0.0",
+  "description": "kakashkaTEA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Paket1992/Kysokkakashku.git"
+  },
+  "dependencies": {
+    "smetanka": "1.0.0",
+    "minti_fulkerson": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paket1992/Kysokkakashku/issues"
+  },
+  "homepage": "https://github.com/Paket1992/Kysokkakashku#readme"
+}
